@@ -1,5 +1,9 @@
 # The Meridian Gazette
 
+[![competition](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/ditkan/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/ditkan/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119)
+
 **The World on One Page, Thursday 19 November 2026**
 
 One front page, the whole planet: 42 fully written stories from six
